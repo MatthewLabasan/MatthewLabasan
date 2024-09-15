@@ -1,5 +1,5 @@
 ## Hi there, I'm Matthew 👋
-- 🦁 I’m a junior at Columbia University studying CS
+- 🦁 I’m a junior at Columbia University studying Computer Science
 - 👨‍💻 This semester, I'm working as a Web Development Intern at Comedy UO and as a SWE Intern at Columbia Build Lab
 - 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS, Swift
 - 🌱 I’m currently learning Django, React Native, & C
