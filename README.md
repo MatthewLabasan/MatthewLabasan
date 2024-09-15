@@ -1,4 +1,4 @@
-## Hi there, I'm Matthew (he/him) 👋
+## Hi there, I'm Matthew 👋
 - 🦁 I’m a junior at Columbia University studying CS
 - 👨‍💻 This semester, I'm working as a Web Development Intern at Comedy UO and as a SWE Intern at Columbia Build Lab
 - 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS, Swift
