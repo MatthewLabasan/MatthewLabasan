@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Matthew (he/him) 👋
+- 🦁 I’m a junior at Columbia University studying CS
+- 👨‍💻 This semester, I'm working as a Web Development Intern at Comedy UO and as a SWE Intern at Columbia Build Lab
+- 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS, Swift
+- 🌱 I’m currently learning Django, React Native, & C
+- 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
+- 🌲 Fun fact: I love all things outdoors: running, hiking, swimming, you name it!
 
 <!--
 **MatthewLabasan/MatthewLabasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
