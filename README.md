@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Django, React Native, & C
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 🌲 Fun fact: I love being outdoors
-- 😁 Visit my [personal website](https://bit.ly/MatthewLabasan)!
+- 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
 
 <!--
 **MatthewLabasan/MatthewLabasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
