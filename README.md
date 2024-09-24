@@ -4,7 +4,7 @@
 - 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS, Swift
 - 🌱 I’m currently learning Django, React Native, & C
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
-- 🌲 Fun fact: I love being outdoors
+- 🌲 Fun fact: I love being outdoors!
 - 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
 
 <!--
