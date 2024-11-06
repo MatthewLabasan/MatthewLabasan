@@ -1,7 +1,7 @@
 ## Hi there, I'm Matthew 👋
 - 🦁 I’m a junior at Columbia University studying Computer Science
 - 👨‍💻 This semester, I'm working as a Web Development Intern at Comedy UO and as a SWE Intern at Columbia Build Lab
-- 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS, Swift
+- 🛠 I’m skilled in Java, Javascript, Python, HTML/CSS
 - 🌱 I’m currently learning Django, SQL, & C
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 🌲 Fun fact: I love being outdoors
