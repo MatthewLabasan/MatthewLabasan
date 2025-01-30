@@ -1,6 +1,6 @@
 ## Hi there, I'm Matthew 👋
 - 🦁 I’m a junior at Columbia University studying Computer Science
-- 👨‍💻 This semester, I'm working as a Web Development Intern at Comedy UO and as a SWE Intern at Columbia Build Lab
+- 👨‍💻 This semester, I'm working as a SWE Intern at Columbia Build Lab, and taking classes like AI and Advanced Database Systems
 - 🛠 I’m skilled in Java, Javascript, Python, C, SQL, HTML/CSS
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
