@@ -2,6 +2,7 @@
 - 🦁 I’m a junior at Columbia University studying Computer Science
 - 👨‍💻 This semester, I'm working as a SWE Intern at Columbia Build Lab
 - 🛠 I’m skilled in Java, Javascript, Python, C, SQL, HTML/CSS
+- 🌱 Outside of coding, I love long-distance running, exploring the outdoors, and trying out new cafés!
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
 
