@@ -1,5 +1,5 @@
 ## Hi there, I'm Matthew 👋
-- 🦁 I’m a junior at Columbia University studying Computer Science
+- 🦁 I’m a rising senior at Columbia University studying Computer Science
 - 👨‍💻 This summer, I'm working as a SWE Intern at Microsoft in Redmond, WA!
 - 🛠 I’m skilled in Java, Javascript, Python, C, SQL, HTML/CSS
 - 🌱 Outside of coding, I love long-distance running, exploring the outdoors, and trying out new cafés!
