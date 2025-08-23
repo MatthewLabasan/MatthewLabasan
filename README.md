@@ -1,7 +1,8 @@
 ## Hi there, I'm Matthew 👋
 - 🦁 I’m a rising senior at Columbia University studying Computer Science
-- 👨‍💻 This summer, I'm working as a SWE Intern at Microsoft in Redmond, WA!
-- 🛠 I’m skilled in Java, Javascript, Python, C, SQL, HTML/CSS
+- 🍂 This fall, I'll be interning at NBCU on the NBC News team as a Quality Engineer Intern!
+- 👨‍💻 Last summer, I worked as a SWE Intern at Microsoft in Redmond, WA
+- 🛠 I’m skilled in Java, Javascript, Python, C, C#, SQL, HTML/CSS
 - 🌱 Outside of coding, I love long-distance running, exploring the outdoors, and trying out new cafés!
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
