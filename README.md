@@ -1,6 +1,6 @@
 ## Hi there, I'm Matthew 👋
-- 🦁 I’m a fourth-year at Columbia University studying Computer Science
-- 🍂 This fall, I'll be interning at NBCU on the NBC News team as a Quality Engineer Intern!
+- 🦁 I’m a fourth-year student at Columbia University studying Computer Science
+- 🍂 This fall, I'm interning at NBCU on the NBC News, Apps Platform Team as a Software Engineer Intern!
 - 👨‍💻 Last summer, I worked as a SWE Intern at Microsoft in Redmond, WA
 - 🛠 I’m skilled in Java, Javascript, Python, C, C#, SQL, HTML/CSS
 - 🌱 Outside of coding, I love long-distance running, exploring the outdoors, and trying out new cafés!
