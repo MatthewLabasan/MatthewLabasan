@@ -1,8 +1,9 @@
 ## Hi there, I'm Matthew 👋
 - 🦁 I’m a fourth-year student at Columbia University studying Computer Science
-- 🍂 This fall, I'm interning at NBCU on the NBC News, Apps Platform Team as a Software Engineer Intern!
+- 🍂 This fall, I'm interning at NBC News on the Apps Platform Team as a SWE Intern!
 - 👨‍💻 Last summer, I worked as a SWE Intern at Microsoft in Redmond, WA
 - 🛠 I’m skilled in Java, Javascript, Python, C, C#, SQL, HTML/CSS
+- 🍐 Currently working on: AI/ML projects w/ Break Through Tech
 - 🌱 Outside of coding, I love long-distance running, exploring the outdoors, and trying out new cafés!
 - 📫 Feel free to contact me at [mjl2278@columbia.edu](mailto:mjl2278@columbia.edu)
 - 😁 Check out my [personal website](https://bit.ly/MatthewLabasan)!
